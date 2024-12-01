@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Software Engineer and Mern Stack developer from India</h3>
 <img  align="right" alt="coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/7e3cab114445403.603bc566c14a7.gif">
 
-- 👨‍💻 All of my projects are available at [http://127.0.0.1:5500/Webdev/Portfolio/index.html](http://127.0.0.1:5500/Webdev/Portfolio/index.html)
+- 👨‍💻 All of my projects are available at [http://127.0.0.1:5500/Webdev/Portfolio/index.html]
 
 - 📫 How to reach me **shubhamchandra442@gmail.com**
 
